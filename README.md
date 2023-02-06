@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridah Al Moslem</h1>
-<h3 align="center">A Software student at KFUPM</h3>
+<h3 align="center">A Software Engineering student at KFUPM</h3>
+
 
 - 📫 How to reach me **ridahalmoslem@gmail.com**
 
